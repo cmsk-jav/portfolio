@@ -14,7 +14,7 @@ google_verify:
 bing_verify:
 
 # Contact form:
-- static : https://formspree.io/f/mdojdpab
+static : https://formspree.io/f/mdojdpab
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
